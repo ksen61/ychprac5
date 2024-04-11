@@ -1,0 +1,90 @@
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\AdminWindow.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7_MarkupCompile.cache
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7_MarkupCompile.lref
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\PetShop7.exe.config
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\PetShop7.exe
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\PetShop7.pdb
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\AdminWindow.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.g.resources
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.Properties.Resources.resources
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.exe
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.pdb
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\RolePage.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\RolePage.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\EmployeePage.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\EmployeePage.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\UserPage.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\UserPage.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\WorkingHoursPage.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\WorkingHoursPage.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\SupportPage.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\SupportPage.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\WindowsAPICodePack.Shell.CommonFileDialogs.dll
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\User\Desktop\PetShop7\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\CheckPage.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\KassaWindow.g.cs
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\CheckPage.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\KassaWindow.baml
+C:\Users\User\Desktop\PetShop7\PetShop7\obj\Debug\PetShop7.csproj.Up2Date
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\AdminWindow.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\CheckPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\EmployeePage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\KassaWindow.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PurchasePage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\RolePage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\SupportPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\UserPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\WorkingHoursPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7_MarkupCompile.cache
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7_MarkupCompile.lref
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.exe
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.pdb
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\PetShop7.exe.config
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\PetShop7.exe
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\PetShop7.pdb
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\WindowsAPICodePack.Shell.CommonFileDialogs.dll
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\AdminWindow.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\CheckPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\EmployeePage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\KassaWindow.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PurchasePage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\RolePage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\SupportPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\UserPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\WorkingHoursPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.g.resources
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.Properties.Resources.resources
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\PetShop7.csproj.Up2Date
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\CategoriesPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\SubcategPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\WorkerWindow.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\CategoriesPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\SubcategPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\WorkerWindow.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\ProductPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\ProductPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\WarehousePage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\WarehousePage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\SuppliersPage.g.cs
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\obj\Debug\SuppliersPage.baml
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\PetShop7 — копия\PetShop7\bin\Debug\Newtonsoft.Json.xml
