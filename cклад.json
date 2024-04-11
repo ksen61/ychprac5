@@ -1,0 +1,20 @@
+[
+  {
+    "ProductID": 1,
+    "Quantity": 12,
+    "Delivery_Date": "21.09.2024 20:00",
+    "Suppliers_ID": 1
+  },
+  {
+    "ProductID": 2,
+    "Quantity": 20,
+    "Delivery_Date": "21.09.2024 20:00",
+    "Suppliers_ID": 1
+  },
+  {
+    "ProductID": 2,
+    "Quantity": 30,
+    "Delivery_Date": "25.09.2024 20:00",
+    "Suppliers_ID": 2
+  }
+]
